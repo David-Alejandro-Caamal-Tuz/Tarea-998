@@ -6,4 +6,4 @@ title: Necesitas dinero podemos modificar tu dinero desde tu banca movil con sol
 
 description: |
 ---
-Aplican restringciones: una ves pagado no hay devolucion este truco solo funciona una vez en la vida:)
+Aplican restricciones: una vez pagado no hay devolución este truco solo funciona una vez en la vida:)
