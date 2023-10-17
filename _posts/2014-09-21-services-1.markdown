@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ilustracion-de-seguridad-cibernetica.jpeg
+img: ciberseg.png
 category: Services
 title: Ingeniero en sistemas computacionales:<br>Especializado en ciberseguridad
 description: |
